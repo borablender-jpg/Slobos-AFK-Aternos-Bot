@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "subha111.aternos.me",
-    "port": 62490,
+    "ip": "subha111-O86N.aternos.me:51777",
+    "port": 51777,
     "version": "",
     "try-creative": false
   },
